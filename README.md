@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=200&section=header&text=Sufiyan%20Sikander&fontSize=48&fontColor=64FFDA&fontAlignY=40&desc=AI%20Engineer%20%7C%20Building%20Agentic%20AI%20Systems%20%26%20Production-Ready%20ML&descAlignY=58&descSize=16&descColor=8892b0" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=200&section=header&text=Sufiyan%20Sikander&fontSize=48&fontColor=64FFDA&fontAlignY=40&desc=AI%20Engineer%20%7C%20Building%20Agentic%20AI%20Systems&descAlignY=58&descSize=16&descColor=8892b0" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=64FFDA&center=true&vCenter=true&width=560&lines=AI+Engineer;RAG+%26+Agentic+AI+Systems;Full+Stack+AI+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 
