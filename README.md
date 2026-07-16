@@ -164,11 +164,9 @@ Deep learning model predicting bank customer churn in real time from account and
 <img src="https://raw.githubusercontent.com/Sufiyan-Sikander/Sufiyan-Sikander/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
 
-> ⚠️ The snake animation above requires a one-time GitHub Actions setup — see instructions below.
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sufiyan-Sikander&show_icons=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sufiyan-Sikander&show_icons=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&cache_seconds=86400" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan-Sikander&theme=react&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" height="165" />
 
 </div>
