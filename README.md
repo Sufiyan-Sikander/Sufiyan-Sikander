@@ -80,73 +80,6 @@ Currently exploring Agentic AI architectures and MCP (Model Context Protocol) se
 
 <br>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[ShurukerAi-FYP](https://shurukerai.vercel.app/)** 🏆
-<br>
-Award-winning AI business intelligence & freelancing platform with RAG pipeline, Pinecone vector search, and Firebase real-time services.
-<br>
-`FastAPI` `React` `LangChain` `Pinecone`
-
-</td>
-<td width="50%" valign="top">
-
-**[Traffic-GPT](https://traffic-gpt.vercel.app/)**
-<br>
-AI-powered civic assistant for traffic queries, challan calculation, and real-time alerts across Pakistan.
-<br>
-`FastAPI` `React` `LangChain` `Hugging Face`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[JobRadar AI](https://github.com/Sufiyan-Sikander/JobRadar-AI-Through-N8N)**
-<br>
-Automated job-matching system that scores resumes against live listings via Gemini AI and delivers alerts over WhatsApp.
-<br>
-`n8n` `Gemini AI` `SerpAPI` `WhatsApp API`
-
-</td>
-<td width="50%" valign="top">
-
-**[AI Content Summarizer](https://huggingface.co/spaces/sufiyansikander01/text-summarizer)**
-<br>
-Summarizes YouTube videos and web articles into structured summaries with Urdu translation support.
-<br>
-`Flask` `LangChain` `Groq (Llama 3.1)`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Text To Math Problem Solver**
-<br>
-ReAct-agent reasoning assistant that solves math and logic problems step by step using tool selection.
-<br>
-`Streamlit` `LangChain` `Groq`
-
-</td>
-<td width="50%" valign="top">
-
-**[ChurnInsight-AI](https://ann-classification-churn.streamlit.app/)**
-<br>
-Deep learning model predicting bank customer churn in real time from account and demographic data.
-<br>
-`TensorFlow` `Keras` `Streamlit`
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## Certifications
 
 - Complete Generative AI Course with LangChain and Hugging Face — *Udemy*
@@ -167,6 +100,7 @@ Deep learning model predicting bank customer churn in real time from account and
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sufiyan-Sikander&show_icons=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&cache_seconds=86400" alt="GitHub Stats" height="165" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan-Sikander&theme=react&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" height="165" />
 
 </div>
