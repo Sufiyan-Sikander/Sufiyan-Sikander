@@ -22,7 +22,6 @@ AI Engineer based in Karachi, Pakistan, specializing in Generative AI, Retrieval
 🏆 **Winner, FYP Competition — ZABEFEST 2026**, for *ShurukerAI*, an AI-powered business intelligence and freelancing platform.
 
 Currently exploring Agentic AI architectures and MCP (Model Context Protocol) servers to build more autonomous, scalable AI ecosystems.
-
 <br>
 
 ## 💻 Tech Stack
@@ -81,6 +80,7 @@ Currently exploring Agentic AI architectures and MCP (Model Context Protocol) se
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
 
 ## 🎓 Certifications
 
