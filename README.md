@@ -15,7 +15,7 @@
 
 <br>
 
-## About
+## 🧠 About
 
 AI Engineer based in Karachi, Pakistan, specializing in Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI systems. I build production-ready, full-stack AI applications — from LLM-powered chat assistants to automated ML pipelines — using Python, LangChain, and modern cloud infrastructure.
 
@@ -82,7 +82,7 @@ Currently exploring Agentic AI architectures and MCP (Model Context Protocol) se
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-## Certifications
+## 🎓 Certifications
 
 - Complete Generative AI Course with LangChain and Hugging Face — *Udemy*
 - Machine Learning Specialization — *Coursera*
@@ -93,7 +93,7 @@ Currently exploring Agentic AI architectures and MCP (Model Context Protocol) se
 
 <br>
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sufiyan-Sikander/Sufiyan-Sikander/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
