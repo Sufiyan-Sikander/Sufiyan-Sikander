@@ -17,7 +17,7 @@
 
 ## 🧠 About
 
-AI Engineer based in Karachi, Pakistan, specializing in Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI systems. I build production-ready, full-stack AI applications — from LLM-powered chat assistants to automated ML pipelines — using Python, LangChain, and modern cloud infrastructure.
+AI Engineer based in Karachi, Pakistan, specializing in Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI systems. I build production-ready, full-stack AI applications — from LLM-powered chat assistants to automated ML pipelines using Python, LangChain, and modern cloud infrastructure.
 
 🏆 **Winner, FYP Competition — ZABEFEST 2026**, for *ShurukerAI*, an AI-powered business intelligence and freelancing platform.
 
